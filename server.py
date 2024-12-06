@@ -5,7 +5,7 @@ app = Flask(__name__)
 # In-memory user database (for example purposes)
 user_data = {
     "rdxedx818@gmail.com": {"authenticated": True},
-    "gauri1574.be22@chitkara.edu.in": {"authenticated": false},
+    "gauri1574.be22@chitkara.edu.in": {"authenticated": False},
     "user2@example.com": {"authenticated": True},
 }
 
