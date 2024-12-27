@@ -4,8 +4,9 @@ app = Flask(__name__)
 
 # In-memory user database (for example purposes)
 user_data = {
-    "naman0594.be22@chitkara.edu.in": {"authenticated": False},
-    "nikhal608.be22@chitkara.edu.in": {"authenticated": False},
+    "shivam2312.be22@chitkara.edu.in": {"authenticated": False},
+    "ritika2168.be22@chitkara.edu.in": {"authenticated": False},
+    "nandini2586.be22@chitkara.edu.in": {"authenticated": False},
 }
 
 @app.route('/authenticate', methods=['POST'])
