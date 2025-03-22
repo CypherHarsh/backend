@@ -6,6 +6,9 @@ app = Flask(__name__)
 user_data = {
     "himanshu1659.be22@chitkara.edu.in": {"authenticated": False},
     "kush1830.be22@chitkara.edu.in": {"authenticated": False},
+    "nikhal608.be22@chitkara.edu.in": {"authenticated": False},
+    "naman1953.be22@chitkara.edu.in": {"authenticated": False},
+    "manish1881.be22@chitkara.edu.in": {"authenticated": False},
     
 }
 
