@@ -9,8 +9,10 @@ user_data = {
     "nikhal608.be22@chitkara.edu.in": {"authenticated": False},
     "naman1953.be22@chitkara.edu.in": {"authenticated": False},
     "manish1881.be22@chitkara.edu.in": {"authenticated": False},
-    
-}
+    "rakshit1406.be23@chitkara.edu.in": {"authenticated": False},
+    "manwinderpreet0734.be23@chitkara.edu.in": {"authenticated": False},
+    "tanisha2226.be23@chitkara.edu.in": {"authenticated": False},
+    }
 
 @app.route('/authenticate', methods=['POST'])
 def authenticate():
