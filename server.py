@@ -6,18 +6,9 @@ app = Flask(__name__)
 user_data = {
     "himanshu1659.be22@chitkara.edu.in": {"authenticated": False},
     "kush1830.be22@chitkara.edu.in": {"authenticated": False},
-    "nikhal608.be22@chitkara.edu.in": {"authenticated": False},
     "naman1953.be22@chitkara.edu.in": {"authenticated": False},
-    "manish1881.be22@chitkara.edu.in": {"authenticated": False},
-    "rakshit1406.be23@chitkara.edu.in": {"authenticated": False},
-    "manwinderpreet0734.be23@chitkara.edu.in": {"authenticated": False},
-    "tanisha2226.be23@chitkara.edu.in": {"authenticated": False},
-    "gaurav1570.be22@chitkara.edu.in": {"authenticated": False},
-    "kartik1751.be22@chitkara.edu.in": {"authenticated": False},
-    "ashish1401.be22@chitkara.edu.in": {"authenticated": False},
-    "arshdeep1366@chitkara.edu.in": {"authenticated": False},
     "naman594.be22@chitkara.edu.in": {"authenticated": False},
-    
+    "nandini2586.be22@chitkara.edu.in": {"authenticated": False},
     }
 
 @app.route('/authenticate', methods=['POST'])
