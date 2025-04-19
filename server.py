@@ -5,12 +5,11 @@ app = Flask(__name__)
 # In-memory user database (for example purposes)
 user_data = {
     "arshdeep1366@chitkara.edu.in": {"authenticated": False},
-    "nikhal608.be22@chitkara.edu.in": {"authenticated": False},
     "ashish1401.be22@chitkara.edu.in": {"authenticated": False},
     "naman594.be22@chitkara.edu.in": {"authenticated": False},
     "prikshit2087.be22@chitkara.edu.in": {"authenticated": False},
     "manish1881.be22@chitkara.edu.in": {"authenticated": False},
-    "naman1953.be22@chitkara.edu.in": {"authenticated": False},
+    
     
     }
 
