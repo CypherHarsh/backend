@@ -14,6 +14,7 @@ user_data = {
     "rakshit1406.be23@chitkara.edu.in": {"authenticated": False},
     "tanisha2226.be23@chitkara.edu.in": {"authenticated": False},
     "kartik1751.be22@chitkara.edu.in": {"authenticated": False},
+    "shivam2312.be22@chitkara.edu.in": {"authenticated": False},
     
     
     }
