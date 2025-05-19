@@ -4,17 +4,17 @@ app = Flask(__name__)
 
 # In-memory user database (for example purposes)
 user_data = {
-    "durgesh1551.be22@chitkara.edu.in": {"authenticated": False},
+   # "durgesh1551.be22@chitkara.edu.in": {"authenticated": False},
     "harshit1637.be22@chitkara.edu.in": {"authenticated": False},
     "naman594.be22@chitkara.edu.in": {"authenticated": False},
     "tejasvi2464.be22@chitkara.edu.in": {"authenticated": False},
     "hardik1607.be22@chitkara.edu.in": {"authenticated": False},
     "gaurav1572.be22@chitkara.edu.in": {"authenticated": False},
-    "nikhil0587.becse24@chitkara.edu.in": {"authenticated": False},
+   # "nikhil0587.becse24@chitkara.edu.in": {"authenticated": False},
     #"rakshit1406.be23@chitkara.edu.in": {"authenticated": False},
     #"tanisha2226.be23@chitkara.edu.in": {"authenticated": False},
     #"kartik1751.be22@chitkara.edu.in": {"authenticated": False},
-    "shivam2312.be22@chitkara.edu.in": {"authenticated": False},
+   # "shivam2312.be22@chitkara.edu.in": {"authenticated": False},
     #"himanshu1659.be22@chitkara.edu.in": {"authenticated": False},
     
     }
