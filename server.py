@@ -11,7 +11,7 @@ user_data = {
   "hardik1607.be22@chitkara.edu.in": {"authenticated": False},
   "gaurav1572.be22@chitkara.edu.in": {"authenticated": False},
    "nikhil0587.becse24@chitkara.edu.in": {"authenticated": False},
-    #"rakshit1406.be23@chitkara.edu.in": {"authenticated": False},
+   "harsh1612.be22@chitkara.edu.in": {"authenticated": False},
     #"tanisha2226.be23@chitkara.edu.in": {"authenticated": False},
    "shubham2368.be22@chitkara.edu.in": {"authenticated": False},
    "shivam2312.be22@chitkara.edu.in": {"authenticated": False},
