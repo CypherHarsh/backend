@@ -12,7 +12,7 @@ user_data = {
   # "gaurav1572.be22@chitkara.edu.in": {"authenticated": False},
   #  "nikhil0587.becse24@chitkara.edu.in": {"authenticated": False},
   #  "harsh1612.be22@chitkara.edu.in": {"authenticated": False},
-    #"tanisha2226.be23@chitkara.edu.in": {"authenticated": False},
+    "nikhil0587.becse24@chitkara.edu.in": {"authenticated": False},
   "1": {"authenticated": False},
   "paras637.be22@chitkara.edu.in": {"authenticated": False},
   "naman594.be22@chitkara.edu.in": {"authenticated": False},
