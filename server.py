@@ -6,14 +6,14 @@ app = Flask(__name__)
 user_data = {
 # "durgesh1551.be22@chitkara.edu.in": {"authenticated": False},
 #  "ashish1401.be22@chitkara.edu.in": {"authenticated": False},
- "paras637.be22@chitkara.edu.in": {"authenticated": False},
-  "naman1953.be22@chitkara.edu.in": {"authenticated": False},
+# "paras637.be22@chitkara.edu.in": {"authenticated": False},
+ # "naman1953.be22@chitkara.edu.in": {"authenticated": False},
  "shubham2368.be22@chitkara.edu.in": {"authenticated": False},
 # "ritika2168.be22@chitkara.edu.in": {"authenticated": False},
 #    "nikhil0587.becse24@chitkara.edu.in": {"authenticated": False},
   "uday2474.be22@chitkara.edu.in": {"authenticated": False},
 #   "nikhil0587.becse24@chitkara.edu.in": {"authenticated": False},
-#  "11": {"authenticated": False},
+ "11": {"authenticated": False},
 # "shivam2312.be22@chitkara.edu.in": {"authenticated": False},
   "harsh1612.be22@chitkara.edu.in": {"authenticated": False},
     
