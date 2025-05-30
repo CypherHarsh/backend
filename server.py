@@ -4,19 +4,19 @@ app = Flask(__name__)
 
 # In-memory user database (for example purposes)
 user_data = {
-"durgesh1551.be22@chitkara.edu.in": {"authenticated": False},
+#"durgesh1551.be22@chitkara.edu.in": {"authenticated": False},
 #  "ashish1401.be22@chitkara.edu.in": {"authenticated": False},
-"paras637.be22@chitkara.edu.in": {"authenticated": False},
- "naman594.be22@chitkara.edu.in": {"authenticated": False},
- "arshad121@gmail.com": {"authenticated": False},
-"ritika2168.be22@chitkara.edu.in": {"authenticated": False},
-  "nikhil0587.becse24@chitkara.edu.in": {"authenticated": False},
- "kartik1751.be22@chitkara.edu.in": {"authenticated": False},
-  "namit121@gmail.com": {"authenticated": False},
- "111": {"authenticated": False},
- "shivam2312.be22@chitkara.edu.in": {"authenticated": False},
-  "scientist1165@gmail.com": {"authenticated": False},
- "112": {"authenticated": False},
+#"paras637.be22@chitkara.edu.in": {"authenticated": False},
+# "naman594.be22@chitkara.edu.in": {"authenticated": False},
+# "arshad121@gmail.com": {"authenticated": False},
+#"ritika2168.be22@chitkara.edu.in": {"authenticated": False},
+#  "nikhil0587.becse24@chitkara.edu.in": {"authenticated": False},
+# "kartik1751.be22@chitkara.edu.in": {"authenticated": False},
+#  "namit121@gmail.com": {"authenticated": False},
+# "111": {"authenticated": False},
+# "shivam2312.be22@chitkara.edu.in": {"authenticated": False},
+"116": {"authenticated": False},
+ "115": {"authenticated": False},
     
     }
 
