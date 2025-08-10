@@ -12,7 +12,7 @@ user_data = {
 #"ritika2168.be22@chitkara.edu.in": {"authenticated": False},
 #  "nikhil0587.becse24@chitkara.edu.in": {"authenticated": False},
 # "kartik1751.be22@chitkara.edu.in": {"authenticated": False},
-#  "namit121@gmail.com": {"authenticated": False},
+  "namit121@gmail.com": {"authenticated": False},
 "111": {"authenticated": False},
 # "shivam2312.be22@chitkara.edu.in": {"authenticated": False},
 "201": {"authenticated": False},
@@ -38,3 +38,4 @@ def authenticate():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
+
