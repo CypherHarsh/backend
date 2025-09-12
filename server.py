@@ -4,19 +4,20 @@ app = Flask(__name__)
 
 # In-memory user database (for example purposes)
 user_data = {
-#"1": {"authenticated": False},
-#  "2": {"authenticated": False},
-"3": {"authenticated": False},
-# "naman594.be22@chitkara.edu.in": {"authenticated": False},
-# "arshad121@gmail.com": {"authenticated": False},
-#"ritika2168.be22@chitkara.edu.in": {"authenticated": False},
-#  "nikhil0587.becse24@chitkara.edu.in": {"authenticated": False},
-#"kartik@gmail.com": {"authenticated": False},
-#  "namit121@gmail.com": {"authenticated": False},
-#"111": {"authenticated": False},
-# "shivam2312.be22@chitkara.edu.in": {"authenticated": False},
-#"harsh@gmail.com": {"authenticated": False},
-# "199": {"authenticated": False},
+"4812": {"authenticated": False},
+"1415": {"authenticated": False},
+"1513": {"authenticated": False},
+"5153": {"authenticated": False},
+"9513": {"authenticated": False},
+"1463": {"authenticated": False},
+"9241": {"authenticated": False},
+"8623": {"authenticated": False},
+"3466": {"authenticated": False},
+"1111": {"authenticated": False},
+"25253": {"authenticated": False},
+"14145": {"authenticated": False},
+ "15355": {"authenticated": False},
+"12626": {"authenticated": False},
     
     }
 
@@ -38,6 +39,7 @@ def authenticate():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
+
 
 
 
