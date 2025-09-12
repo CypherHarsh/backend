@@ -4,19 +4,19 @@ app = Flask(__name__)
 
 # In-memory user database (for example purposes)
 user_data = {
-"1": {"authenticated": False},
-  "2": {"authenticated": False},
-"3": {"authenticated": False},
+#"1": {"authenticated": False},
+#  "2": {"authenticated": False},
+#"3": {"authenticated": False},
 # "naman594.be22@chitkara.edu.in": {"authenticated": False},
 # "arshad121@gmail.com": {"authenticated": False},
 #"ritika2168.be22@chitkara.edu.in": {"authenticated": False},
 #  "nikhil0587.becse24@chitkara.edu.in": {"authenticated": False},
-"kartik@gmail.com": {"authenticated": False},
-  "namit121@gmail.com": {"authenticated": False},
-"111": {"authenticated": False},
+#"kartik@gmail.com": {"authenticated": False},
+#  "namit121@gmail.com": {"authenticated": False},
+#"111": {"authenticated": False},
 # "shivam2312.be22@chitkara.edu.in": {"authenticated": False},
-"harsh@gmail.com": {"authenticated": False},
- "199": {"authenticated": False},
+#"harsh@gmail.com": {"authenticated": False},
+# "199": {"authenticated": False},
     
     }
 
@@ -38,5 +38,6 @@ def authenticate():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
+
 
 
